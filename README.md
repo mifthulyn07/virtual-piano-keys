@@ -1,5 +1,5 @@
 # virtual Piano Keys
-The "Virtual Piano Keys" project is a simple digital piano created using the Java programming language. It allows users to play piano notes using their computer keyboard.
+The "Virtual Piano Keys" project is a simple digital piano created using the Java programming language. It allows users to play piano notes using their computer.
 
 # Contact
 You can reach me at mifthulyn07@gmail.com, if you have any questions or just want to connect.
